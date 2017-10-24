@@ -27,3 +27,10 @@ Noah Yoshida
    they are playing, and how likely their team is to win 
  - Uses ML and a neural network to learn what metrics contribute most to a
    team's success. 
+
+
+--- 
+
+Will need to use SQLite or an equivalent to make databases for all of the
+static data from the LeagueOfLegends API, such as item codes, mastery codes,
+champion codes, and what not. 
