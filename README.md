@@ -19,6 +19,7 @@ Noah Yoshida
    performance of pro players in same role / champ 
  - Determines what metrics you are lacking in, shows difference, suggests ways
    to improve
+
 ---
  - Seperate from the RiotGames API - Grabs screen every time the player presses
    tab (or another hotkey, to show the scoreboard), and takes the data from the
