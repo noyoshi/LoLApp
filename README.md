@@ -12,8 +12,8 @@ Noah Yoshida
 
 
 
- Ideas:
-
+ 
+Ideas:
 ---
 
  - Checks how well you are performing vs your average performance, average
