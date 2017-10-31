@@ -1,4 +1,4 @@
-# ** Insert creative title here **
+# LoLImprov (TITLE WIP)
 
 Noah Yoshida
 
@@ -13,21 +13,14 @@ Noah Yoshida
 
 
  Ideas:
+
 ---
 
  - Checks how well you are performing vs your average performance, average
    performance of pro players in same role / champ
  - Determines what metrics you are lacking in, shows difference, suggests ways
    to improve
-
----
- - Seperate from the RiotGames API - Grabs screen every time the player presses
-   tab (or another hotkey, to show the scoreboard), and takes the data from the
-   scoreboard to give a continuously updated report to the player on how well
-   they are playing, and how likely their team is to win
- - Uses ML and a neural network to learn what metrics contribute most to a
-   team's success.
-
+ - Only will give basic feedback and suggestins for now - if more 'subjective' feedback is desired, it will have to implement some ML 
 
 ---
 
